@@ -1,0 +1,14 @@
+[Unit]
+Restart=on-failure
+After=multi-user.target
+
+[Service]
+Type=simple
+Restart=Always
+ExecStartPre=/bin/sleep 30
+Execstart=/usr/bin/python3 /home/focallength2/focal.py
+
+[Install]
+WantedBy=multi-user.target
+
+
