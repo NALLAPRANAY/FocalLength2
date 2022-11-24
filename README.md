@@ -1,9 +1,9 @@
 # FocalLength
-**
+***
 Focal Length is a physics experiment, where the student can observe the sharp image at a
 particular focal length as shown in the fig.55 by varying the screen and object distances.This
 section consists of the physics behind the experiment, the software and hardware implementations of the experiment and it’s working.
-**
+***
 
 ##Project objectives
 
