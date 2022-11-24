@@ -5,7 +5,7 @@ particular focal length as shown in the fig.55 by varying the screen and object 
 section consists of the physics behind the experiment, the software and hardware implementations of the experiment and it’s working.
 ***
 
-##Project objectives
+## Project objectives
 
 1.To provide web-based practical experience to students and allow them to perform
 experiments over the internet.
@@ -13,7 +13,7 @@ experiments over the internet.
 3. To calculate focal length of a biconvex lens by observing image formation by the
 lens on an IoT enabled optical bench.
 
-##Theory
+## Theory
 
 The main physics behind the experiment can be summarized as:
 To calculate the focal length of a lens you should be familiar with basic concepts of refraction of light from a lens and lens formula which will be used to calculate the focal length
