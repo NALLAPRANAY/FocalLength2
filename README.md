@@ -19,7 +19,7 @@ The main physics behind the experiment can be summarized as:
 To calculate the focal length of a lens you should be familiar with basic concepts of refraction of light from a lens and lens formula which will be used to calculate the focal length
 by obtaining object and image distances with proper sign convention. The lens formula is
 given by:
-'''1/f=1/v-1/u'''
+```1/f=1/v-1/u```
 
 ### Hardware Implementation
 The hardware setup is built using hardwood and cardboard. A small part of the hardwood
